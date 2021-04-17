@@ -1,0 +1,4 @@
+1) Introducion a Jupyter Python - Arturo
+2) Redes y Sockets - Jose 
+3) Introduccion a Web Scraping - Daniel
+4) APIS - Rodrigo
